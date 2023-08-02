@@ -7,5 +7,6 @@
 
 ## Techology
 ![Django](https://img.shields.io/badge/django-ed8b00?style=for-the-badge&logo=django)
+![Django](https://img.shields.io/badge/react-ed8b00?style=for-the-badge&logo=react)
 
 
